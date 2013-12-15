@@ -319,7 +319,9 @@ Vimscript mappings:
 # My Updates to The Ultimate vimrc
 
 ## Add some useful candinate plugins to the repo
-See them in [vim_plugin_candintes_src](https://github.com/hustcalm/vimrc/tree/master/vim_plugin_candinates_src).All these plugins will be candinates to be added to my Ultimate vimrc. 
+See them in [vim_plugin_candintes_src](https://github.com/hustcalm/vimrc/tree/master/vim_plugin_candinates_src).
+
+All these plugins will be candinates to be added to my Ultimate vimrc. 
 
 You can also add your own favorite script from [vim-scripts.org](http://vim-scripts.org/) or install from [github](http://github.com/vim-scripts).
 
@@ -337,7 +339,9 @@ After this,you got vim-rails under sources_non_forked/vim-rails as a git local r
 
 ### Manage with git submodule
 
-Instead I'm using git submodule to manage vim plugins now(Alternately you can use [git subtree](https://github.com/apenwarr/git-subtree.git)), clone them from github and install,config,update,delete,etc... And as a vimer, I prefer to drop the plugins to bundle rather than sources_plugins thus pathogen can find it automatically.
+Instead I'm using git submodule to manage vim plugins now(Alternately you can use [git subtree](https://github.com/apenwarr/git-subtree.git)), clone them from github and install,config,update,delete,etc... 
+
+And as a vimer, I prefer to drop the plugins to bundle rather than sources_plugins thus pathogen can find it automatically.
 
 As we want to install vim-rails:
 
